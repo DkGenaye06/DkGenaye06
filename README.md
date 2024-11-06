@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DkGenaye06 an incoming Freshman at THE ILLUSTRIOUS North Carolina Agricultural and Technical State University
+- 👋 Hi, I’m @DkGenaye06 a Freshman at THE ILLUSTRIOUS North Carolina Agricultural and Technical State University
 - 👀 I’m interested in Web development, App Development, and things of that nature.
 - 🌱 I’m currently learning HTML/CSS/JS
 - 📫 How to reach me @imjust_dk on Instagram!
